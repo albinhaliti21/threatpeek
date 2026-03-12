@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ThreatPeek Privacy Policy</title>
+<meta charset="UTF-8">
+</head>
+<body>
+<h1>ThreatPeek Privacy Policy</h1>
+
+<p>ThreatPeek does not collect, store, or transmit personal user data.</p>
+
+<p>The extension operates locally in the user's browser and processes Indicators of Compromise (IOCs) such as IP addresses, domains, and file hashes only when the user submits them for analysis.</p>
+
+<p>When a lookup is performed, the submitted indicator may be sent directly to third-party threat intelligence services such as VirusTotal, AbuseIPDB, AlienVault OTX, or WHOIS providers to retrieve reputation information. These requests occur only when initiated by the user.</p>
+
+<p>ThreatPeek does not track browsing activity or collect analytics.</p>
+
+<p>API keys configured by the user are stored locally using the browser's extension storage system and are not transmitted to any servers operated by the extension developer.</p>
+
+<p>Users should review the privacy policies of third-party services used for threat intelligence queries.</p>
+
+</body>
+</html>
